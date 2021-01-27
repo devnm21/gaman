@@ -1,0 +1,12 @@
+{
+  "name": "gaman",
+  "displayName": "gaman",
+  "expo": {
+    "name": "gaman",
+    "slug": "gaman",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
